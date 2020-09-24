@@ -1,2 +1,2 @@
 # hq
-A command-line JSON processor inspired by jq
+A command-line HTTP response processor inspired by jq
